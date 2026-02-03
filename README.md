@@ -4,7 +4,7 @@
 
 ### Estudiante de Ingeniería en Sistemas de Información (UTN) | Full-Stack Developer
 
-Spring • Go • React • Rust • TypeScript • MySQL • PostgreSQL • Docker • 
+Spring • Go • React • Rust • TypeScript • MySQL • PostgreSQL • Docker
 
 [LinkedIn](https://www.linkedin.com/in/juan-manuel-bravo-15a0b82a4/) • [Email](mailto:juancitobravoc@gmail.com)
 
